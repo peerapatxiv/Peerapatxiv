@@ -7,4 +7,4 @@ I enjoy exploring new technologies, understanding user behavior, and bridging th
 
 - 🎓 Computer Engineering at KMUTT.
 - 💻 Passionate about software development.
-- 🌱 Currently learning and exploring new technologies
+- 🌱 Currently learning and exploring new technologies.
