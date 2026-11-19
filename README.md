@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Peerapat 👋</h1>
-<p align="center"><b>Software Developer · Integration & API Gateway @ SCB TechX</b></p>
+<h1>Hi there, I'm Peerapat 👋</h1>
+<p><b>Software Developer · Integration & API Gateway @ SCB TechX</b></p>
 
 ## 🚀 About Me
 
