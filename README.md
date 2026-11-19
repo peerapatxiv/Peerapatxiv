@@ -8,5 +8,4 @@
 - 🌱 Always learning and exploring new tech
 
 ## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-peerapat.xiv%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:peerapat.xiv@gmail.com)
+Email : peerapat.xiv@gmail.com
