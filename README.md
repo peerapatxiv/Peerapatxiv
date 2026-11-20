@@ -12,4 +12,14 @@ Based in Bangkok, Thailand 🇹🇭, passionate about building reliable API serv
 
 ## 📫 Get in Touch
 
-- 📧 Email: [peerapat.xiv@gmail.com](mailto:peerapat.xiv@gmail.com)
+<p align="center">
+  <a href="mailto:peerapat.xiv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-peerapat.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/peerapatpadt/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
