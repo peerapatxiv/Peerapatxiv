@@ -2,7 +2,7 @@
 
 **Software Developer · Integration & API Gateway @ SCB TechX**
 
-I'm a Software Engineer based in Bangkok, Thailand, passionate about building reliable API services and turning complex problems into simple, practical solutions.
+Based in Bangkok, Thailand 🇹🇭, passionate about building reliable API services and turning complex problems into simple, practical solutions.
 
 When I'm offline, you'll probably find me going for a run, exploring new places, or relaxing by the sea. 🌊
 
