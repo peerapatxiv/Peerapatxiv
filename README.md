@@ -12,7 +12,7 @@ Based in Bangkok, Thailand 🇹🇭, passionate about building reliable API serv
 
 ## 📫 Get in Touch
 
-<p align="center">
+<p>
   <a href="mailto:peerapat.xiv@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
